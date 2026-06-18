@@ -23,42 +23,42 @@
 ---
 
 ## 💫 About Me
-I specialize in bridging the gap between Machine Learning and Cloud Infrastructure. I turn ML models from research notebooks into robust, scalable, and fully monitored production-grade systems.
+I am an **AI/ML & MLOps Engineer** passionate about building, deploying, and scaling intelligent systems. I specialize in bridging the gap between Data Science and cloud-native Infrastructure, automating machine learning pipelines, and orchestrating highly available containerized models.
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Core Focus</h3>
+      <h3>🧠 Artificial Intelligence & Machine Learning</h3>
       <ul>
-        <li><b>MLOps Pipelines</b>: Automating ML lifecycles using FastAPI, Docker, and GitHub Actions on AWS.</li>
-        <li><b>Infrastructure as Code</b>: Designing declarative cloud environments using Terraform & Kubernetes.</li>
-        <li><b>Continuous Delivery</b>: Implementing GitOps workflows with Argo CD and CI/CD tools.</li>
+        <li><b>Model Development</b>: Building neural networks and ML models using PyTorch, scikit-learn, and OpenCV.</li>
+        <li><b>Data Pipelines</b>: Designing optimized data ingestion, pre-processing, and visualization pipelines with Pandas and NumPy.</li>
+        <li><b>Computer Vision</b>: Implementing real-time object detection and image processing workflows.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Currently Learning</h3>
+      <h3>🚀 MLOps (Machine Learning Operations)</h3>
       <ul>
-        <li>Advanced high-availability Kubernetes networking & observability patterns.</li>
-        <li>Real-time model drift detection and continuous feedback loops.</li>
-        <li>Scalable distributed model training infrastructure.</li>
+        <li><b>Model Serving</b>: Packaging models into high-performance FastAPI, OpenCV, and PyTorch services in Docker.</li>
+        <li><b>Experiment Tracking</b>: Managing lifecycle, artifact, and model registry with MLflow.</li>
+        <li><b>Production Observability</b>: Monitoring models in production for data drift, performance degradation, and latency.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 Open to Collaboration</h3>
+      <h3>☁️ DevOps & Cloud Architecture</h3>
       <ul>
-        <li>Open-source DevOps & MLOps orchestration frameworks.</li>
-        <li>Kubernetes custom controllers, operators, and platform engineering.</li>
-        <li>Highly scalable AI backend engines.</li>
+        <li><b>Orchestration</b>: Managing container workloads on Kubernetes clusters with high-availability patterns.</li>
+        <li><b>Infrastructure as Code</b>: Provisioning declarative cloud environments on AWS & Azure using Terraform.</li>
+        <li><b>GitOps & CI/CD</b>: Automating deployment pipelines with Argo CD, GitHub Actions, and Jenkins.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Ask Me About</h3>
+      <h3>🌱 Current Research & Goals</h3>
       <ul>
-        <li>Deploying containerized FastAPI & PyTorch services.</li>
-        <li>Automating infrastructure with Terraform & GitHub Actions.</li>
-        <li>Distributed database setups (PostgreSQL, Redis, DynamoDB).</li>
+        <li>Advanced Kubernetes networking, service mesh (Istio), and observability.</li>
+        <li>Real-world MLOps best practices, model drift detection, and continuous training loops.</li>
+        <li>Distributed AI training systems and model optimization (quantization, pruning).</li>
       </ul>
     </td>
   </tr>
@@ -135,7 +135,7 @@ I specialize in bridging the gap between Machine Learning and Cloud Infrastructu
   <tr align="center">
     <td colspan="2">
       <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Sanvith6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanvith6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -149,18 +149,18 @@ I specialize in bridging the gap between Machine Learning and Cloud Infrastructu
 
 <br/>
 
-<table border="0" align="center" width="100%">
-  <tr align="center" style="border: none;">
-    <td width="50%" style="border: none; border-right: 1px solid #333; padding-right: 10px;">
-      <h3>🔝 Top Contributed Repos</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=Sanvith6&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-    </td>
-    <td width="50%" style="border: none; padding-left: 10px;">
-      <h3>✍️ Random Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 <br/>
+
+<div align="center">
+  <h3>📈 Daily Contributions Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanvith6&theme=tokyonight&hide_border=true" alt="Sanvith's Daily Contributions" width="100%" />
+</div>
+
+<br/>
+
 
