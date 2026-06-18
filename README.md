@@ -157,8 +157,12 @@ I am an **AI/ML & MLOps Engineer** passionate about building, deploying, and sca
 <br/>
 
 <div align="center">
-  <h3>📈 Daily Contributions Graph</h3>
-  <img src="https://ghchart.rshah.org/Sanvith6" alt="Sanvith's Daily Contributions" width="100%" />
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanvith6/Sanvith6/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanvith6/Sanvith6/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Sanvith6/Sanvith6/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  </picture>
 </div>
 
 <br/>
