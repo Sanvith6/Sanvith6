@@ -158,7 +158,7 @@ I am an **AI/ML & MLOps Engineer** passionate about building, deploying, and sca
 
 <div align="center">
   <h3>📈 Daily Contributions Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanvith6&theme=tokyonight&hide_border=true" alt="Sanvith's Daily Contributions" width="100%" />
+  <img src="https://ghchart.rshah.org/Sanvith6" alt="Sanvith's Daily Contributions" width="100%" />
 </div>
 
 <br/>
